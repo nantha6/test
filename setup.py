@@ -9,6 +9,6 @@ setup(
     packages=find_packages(),
     url='https://github.com/nantha6/test',
     install_requires=[
-        'paddleocr'
+        'boto3'
     ]
 )
