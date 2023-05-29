@@ -2,6 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='nandhatest',
+    namespace_package=['nandhatest'],
     version='1.0.0',
     author='nandha',
     description='Function which file upload and download the files to the specified bucket',
