@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='test',
+    name='nandhatest',
     version='1.0.0',
     author='test',
     description='Function which file upload and download the files to the specified bucket',
