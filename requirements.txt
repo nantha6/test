@@ -1,0 +1,2 @@
+# git+https://nanthakumar6:ATBBS9bSdZCRyqj4WDvrBVqxSjMH9AA65836@bitbucket.org/innoboon-tech/ib-python-data-api-services.git@nantha
+git+https://bitbucket.org/innoboon-tech/ib-python-data-api-services/src/nantha/
